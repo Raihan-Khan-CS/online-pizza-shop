@@ -1,0 +1,12 @@
+**Developed by Designed By Md Raihan Khan & Zannatul Islam Proma**
+
+**Database Name: onlinefoodorder**
+
+**Admin Login Details**
+
+Username: admin
+Password: 123456
+
+Username: raihan
+Password: 12345
+
